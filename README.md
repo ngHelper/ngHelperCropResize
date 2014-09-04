@@ -3,7 +3,7 @@ ngHelperCropResize
 
 A simple directive to adjust your images without loosing quality
 
-### Install ng-helper-qr-code
+### Install ng-helper-crop-resize
 ```
 bower install ng-helper-crop-resize --save
 ```
