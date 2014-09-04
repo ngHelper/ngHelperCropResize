@@ -1,0 +1,34 @@
+{
+    "name": "ngHelperCropResize",
+    "main": [
+        "ngHelperCropResize.js",
+        "jquery.resizeandcrop.js",
+        "jquery.resizeandcrop.css"
+    ],
+    "version": "0.0.1",
+    "homepage": "https://github.com/ngHelper/ngHelperCropResize",
+    "authors": [
+        "dei79 <dirk.eisenberg@gmail.com>"
+    ],
+    "description": "A directive which makes it super simple to crop and resize an image",
+    "keywords": [
+        "angular",
+        "angularjs",
+        "directive",
+        "crop",
+        "resize",
+        "image"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "angular": "~1.2",
+        "jquery": ">=1.11.1"
+    }
+}
