@@ -52,4 +52,4 @@ The directive is also good for many images which are loaded relativly slow. Duri
 
 ## License
 
-[MIT License](https://github.com/lukehaas/css-loaders/blob/step2/LICENSE)
+[MIT License](https://github.com/ngHelper/ngHelperCropResize/blob/master/LICENSE)
