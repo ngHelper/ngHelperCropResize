@@ -3,7 +3,8 @@
     "main": [
         "ngHelperCropResize.js",
         "jquery.resizeandcrop.js",
-        "jquery.resizeandcrop.css"
+        "jquery.resizeandcrop.css",
+	"assets/default.png"
     ],
     "version": "0.0.1",
     "homepage": "https://github.com/ngHelper/ngHelperCropResize",
