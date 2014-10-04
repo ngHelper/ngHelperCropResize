@@ -6,7 +6,7 @@
         "jquery.resizeandcrop.css",
 	"assets/default.png"
     ],
-    "version": "0.1.0",
+    "version": "0.2.0",
     "homepage": "https://github.com/ngHelper/ngHelperCropResize",
     "authors": [
         "dei79 <dirk.eisenberg@gmail.com>"

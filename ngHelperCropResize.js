@@ -18,7 +18,9 @@ ngHelperCropResize.directive('autoCropAndResize', function () {
 
           // get the real source
           var realSource = $(element).attr('src');
-
+          if (realSource === null ||realSource === undefined ) {
+              realSource = $(element).attr('ng-src');
+          }
           // set the default avatar
           $(element).attr('src', 'bower_components/ng-helper-crop-resize/assets/default.png');
 
